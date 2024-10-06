@@ -1,5 +1,8 @@
 GPU-Accelerated Data Processing with NVIDIA RAPIDS
 
+![images](https://github.com/user-attachments/assets/66551183-4acd-4be2-8018-62161b4dc168)
+
+
 This project demonstrates the use of NVIDIA RAPIDS and Dask to accelerate data processing and machine learning workflows using GPU technology. The primary dataset used is the Census dataset from the UCI Machine Learning Repository, commonly used for classification tasks.
 Project Overview
 Key Technologies:
